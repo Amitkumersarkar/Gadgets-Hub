@@ -14,15 +14,15 @@ const router = createBrowserRouter([
     errorElement: <NotFoundPage></NotFoundPage>,
     children: [
       {
-        path: '/',
+        index: true,
         element: <Hero></Hero>
       },
       {
-        path: '/',
+        path: '/home',
         element: <Home></Home>
       },
       {
-        path: '/details',
+        path: 'details/:product_id',
         element: <Details></Details>
       }
 

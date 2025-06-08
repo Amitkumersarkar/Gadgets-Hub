@@ -17,6 +17,11 @@ const Navbar = () => {
                         </NavLink>
                     </li>
                     <li>
+                        <NavLink to='/home' className={({ isActive }) => isActive ? "text-primary font-bold" : ""}>
+                            Products
+                        </NavLink>
+                    </li>
+                    <li>
                         <NavLink to='/statistics' className={({ isActive }) => isActive ? "text-primary font-bold" : ""}>
                             Statistics
                         </NavLink>
