@@ -25,11 +25,7 @@ const Hero = () => {
                     </div>
                     {/* Image Card */}
                     <div className="mt-10 p-1 bg-white rounded-3xl shadow-lg inline-block">
-                        <img
-                            src="/public/assets/banner.jpg" // 👈 Use your actual image path
-                            alt="Gadget Display"
-                            className="rounded-2xl w-full max-w-5xl object-cover"
-                        />
+                        <img src="/assets/banner.jpg" alt="Gadget Display" className="rounded-2xl w-full max-w-5xl object-cover" />
                     </div>
                 </div>
 
