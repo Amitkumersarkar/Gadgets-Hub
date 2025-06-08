@@ -6,6 +6,7 @@ import Root from './components/MainLayout/Root';
 import Hero from './components/Header/Hero';
 import NotFoundPage from './components/ErrorPage/NotFoundPage';
 import Home from './components/HomePage/Home';
+import Details from './components/AllProducts/Details';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -19,6 +20,10 @@ const router = createBrowserRouter([
       {
         path: '/',
         element: <Home></Home>
+      },
+      {
+        path: '/details',
+        element: <Details></Details>
       }
 
     ]

@@ -1,4 +1,3 @@
-import React from 'react';
 import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {
@@ -6,7 +5,7 @@ const Navbar = () => {
         <div className="navbar bg-base-100 shadow-sm mb-10">
             {/* Left: Logo */}
             <div className="flex-1">
-                <a className="btn btn-ghost text-2xl font-bold">GadgetsHeaven</a>
+                <NavLink to='/'><a className="btn btn-ghost text-2xl font-bold">GadgetsHub</a></NavLink>
             </div>
 
             {/* Center: Nav Items */}

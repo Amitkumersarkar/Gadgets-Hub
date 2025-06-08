@@ -1,3 +1,5 @@
+import { NavLink } from "react-router-dom";
+
 const AllProduct = ({ product }) => {
     const { product_title, product_image, price } = product;
 
@@ -13,9 +15,11 @@ const AllProduct = ({ product }) => {
             <div className="p-4 text-center">
                 <h2 className="text-lg font-semibold mb-1">{product_title}</h2>
                 <p className="text-gray-700 mb-3">Price: <span className="font-medium">${price}</span></p>
-                <button className="btn btn-primary rounded-4xl">View Details</button>
+                <NavLink to='details'> <button className="btn btn-primary rounded-4xl">View Details</button></NavLink>
             </div>
-        </div>
+
+        </div >
+
     );
 };
 
