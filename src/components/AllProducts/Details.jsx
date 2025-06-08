@@ -37,6 +37,9 @@ const Details = () => {
             <p className="mb-2"><strong>Specifications:</strong> {Specification}</p>
             <p className="mb-2"><strong>Rating:</strong> {rating} ⭐</p>
             <p className="text-xl mt-4 font-bold">Price: ${price}</p>
+            <div>
+                <button className="btn btn-ghost mt-2 text-white bg-cyan-600">Buy Now</button>
+            </div>
         </div>
     );
 };

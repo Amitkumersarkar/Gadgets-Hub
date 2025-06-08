@@ -9,6 +9,7 @@ import Home from './components/HomePage/Home';
 import Details from './components/AllProducts/Details';
 import Dashboard from './components/Dashboard/Dashboard';
 import Statistics from './components/AllProducts/Statistics';
+import Profile from './components/Header/Profile';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -35,7 +36,10 @@ const router = createBrowserRouter([
         path: '/statistics',
         element: <Statistics></Statistics>
       },
-
+      {
+        path: '/profile',
+        element: <Profile></Profile>
+      }
     ]
   },
 ]);
