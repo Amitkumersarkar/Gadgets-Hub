@@ -1,0 +1,152 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "iPhone 14 Pro",
+        "product_image": "/assets/iphone14pro.jpg",
+        "category": "phones",
+        "price": 999,
+        "description": "Apple's latest flagship with A16 Bionic chip.",
+        "Specification": [
+            "128GB",
+            "6.1-inch OLED",
+            "48MP Camera"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 2,
+        "product_title": "Samsung Galaxy S23",
+        "product_image": "/assets/galaxys23.jpg",
+        "category": "phones",
+        "price": 850,
+        "description": "Powerful performance with Snapdragon 8 Gen 2.",
+        "Specification": [
+            "256GB",
+            "6.6-inch AMOLED",
+            "120Hz Display"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 3,
+        "product_title": "Google Pixel 7",
+        "product_image": "/assets/pixel7.jpg",
+        "category": "phones",
+        "price": 729,
+        "description": "Clean Android experience with excellent camera.",
+        "Specification": [
+            "128GB",
+            "6.3-inch OLED",
+            "Tensor G2"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 4,
+        "product_title": "OnePlus 11",
+        "product_image": "/assets/oneplus11.jpg",
+        "category": "phones",
+        "price": 699,
+        "description": "High performance and super fast charging.",
+        "Specification": [
+            "256GB",
+            "6.7-inch AMOLED",
+            "5000mAh Battery"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 5,
+        "product_title": "Xiaomi 13 Pro",
+        "product_image": "/assets/xiaomi13pro.jpg",
+        "category": "phones",
+        "price": 799,
+        "description": "Flagship camera and fast processor.",
+        "Specification": [
+            "12GB RAM",
+            "120Hz AMOLED",
+            "120W Charging"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 6,
+        "product_title": "Motorola Edge 40",
+        "product_image": "/assets/motoedge40.jpg",
+        "category": "phones",
+        "price": 599,
+        "description": "Curved display with strong performance.",
+        "Specification": [
+            "256GB",
+            "6.5-inch P-OLED",
+            "144Hz Refresh"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": 7,
+        "product_title": "MacBook Pro M2",
+        "product_image": "/assets/macbookprom2.jpg",
+        "category": "computers",
+        "price": 1299,
+        "description": "Ultra-fast performance with Apple silicon.",
+        "Specification": [
+            "512GB SSD",
+            "16GB RAM",
+            "13.3-inch Retina"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 8,
+        "product_title": "Dell XPS 13",
+        "product_image": "/assets/dellxps13.jpg",
+        "category": "computers",
+        "price": 1150,
+        "description": "Compact, powerful, and premium laptop.",
+        "Specification": [
+            "1TB SSD",
+            "16GB RAM",
+            "13.4-inch FHD+"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 9,
+        "product_title": "Anker PowerCore 20000",
+        "product_image": "/assets/anker20000.jpg",
+        "category": "power banks",
+        "price": 55,
+        "description": "High capacity and compact power bank.",
+        "Specification": [
+            "20000mAh",
+            "18W USB-C",
+            "Dual Output"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 10,
+        "product_title": "Mi Power Bank 3",
+        "product_image": "/assets/mipowerbank3.jpg",
+        "category": "power banks",
+        "price": 60,
+        "description": "Fast charging with 18W support.",
+        "Specification": [
+            "10000mAh",
+            "Type-C + USB-A",
+            "Slim Design"
+        ],
+        "availability": true,
+        "rating": 4.4
+    }
+]
