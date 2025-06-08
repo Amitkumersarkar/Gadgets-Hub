@@ -1,5 +1,4 @@
 import { NavLink } from "react-router-dom";
-
 const AllProduct = ({ product }) => {
     const { product_id, product_title, product_image, price } = product;
 
@@ -17,7 +16,6 @@ const AllProduct = ({ product }) => {
                 <p className="text-gray-700 mb-3">Price: <span className="font-medium">${price}</span></p>
                 <NavLink to={`/details/${product_id}`}> <button className="btn btn-primary rounded-4xl">View Details</button></NavLink>
             </div>
-
         </div >
 
     );

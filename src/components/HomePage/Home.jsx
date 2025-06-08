@@ -5,7 +5,7 @@ const Home = () => {
     return (
         <div className='flex min-h-screen'>
             {/* Sidebar section */}
-            <Sidebar></Sidebar>
+            {/* <Sidebar></Sidebar> */}
 
             {/* All Product section */}
             <div className="flex-1 bg-gray-250 p-6 overflow-y-auto">

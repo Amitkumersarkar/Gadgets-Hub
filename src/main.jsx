@@ -7,6 +7,8 @@ import Hero from './components/Header/Hero';
 import NotFoundPage from './components/ErrorPage/NotFoundPage';
 import Home from './components/HomePage/Home';
 import Details from './components/AllProducts/Details';
+import Dashboard from './components/Dashboard/Dashboard';
+import Statistics from './components/AllProducts/Statistics';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -24,7 +26,15 @@ const router = createBrowserRouter([
       {
         path: 'details/:product_id',
         element: <Details></Details>
-      }
+      },
+      {
+        path: "dashboard",
+        element: <Dashboard></Dashboard>,
+      },
+      {
+        path: '/statistics',
+        element: <Statistics></Statistics>
+      },
 
     ]
   },
