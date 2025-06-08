@@ -6,7 +6,7 @@ const Navbar = () => {
         <div className="navbar bg-base-100 shadow-sm mb-10">
             {/* Left: Logo */}
             <div className="flex-1">
-                <a className="btn btn-ghost text-xl">GadgetsHeaven</a>
+                <a className="btn btn-ghost text-2xl font-bold">GadgetsHeaven</a>
             </div>
 
             {/* Center: Nav Items */}

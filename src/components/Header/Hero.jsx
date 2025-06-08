@@ -34,8 +34,8 @@ const Hero = () => {
                 </div>
 
             </section>
-            <div className='w-10/12 mx-auto'>
-                <h2 className="text-4xl font-semibold text-center mb-10">Explore Cutting-Edge Gadgets</h2>
+            <div className='w-11/12 mx-auto'>
+                <h2 className="text-4xl font-bold text-center mb-10">Explore Cutting-Edge Gadgets</h2>
                 <Home></Home>
             </div>
         </>

@@ -2,7 +2,7 @@
 const Sidebar = () => {
     return (
         <aside className="w-64 bg-gray-200 shadow-lg p-4">
-            <h2 className="text-xl font-semibold mb-4">Filters</h2>
+            <h2 className="text-xl font-semibold border-b-1 border-y-cyan-700 mb-4">Filters</h2>
             <ul className="space-y-2">
                 <li><button className="text-gray-700 hover:text-blue-600">All Products</button></li>
                 <li><button className="text-gray-700 hover:text-blue-600">Laptops</button></li>

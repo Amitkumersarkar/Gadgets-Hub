@@ -2,7 +2,7 @@
     {
         "product_id": 1,
         "product_title": "iPhone 14 Pro",
-        "product_image": "/assets/iphone14pro.jpg",
+        "product_image": "https://www.mobiledokan.com/media/171074490670V5y.webp",
         "category": "phones",
         "price": 999,
         "description": "Apple's latest flagship with A16 Bionic chip.",
@@ -16,8 +16,8 @@
     },
     {
         "product_id": 2,
-        "product_title": "Samsung Galaxy S23",
-        "product_image": "/assets/galaxys23.jpg",
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://www.excelestore.com.bd/public/uploads/all/jgMosu41Gfx32OjVZXFgq2Ar8SHc81v7z5YwUkql.webp",
         "category": "phones",
         "price": 850,
         "description": "Powerful performance with Snapdragon 8 Gen 2.",
@@ -32,7 +32,7 @@
     {
         "product_id": 3,
         "product_title": "Google Pixel 7",
-        "product_image": "/assets/pixel7.jpg",
+        "product_image": "https://lh3.googleusercontent.com/QBiLZ5WXD5WtN_lnph7Fd59OmS8FKJV2uDTsVJgVVSwImpJwyHLXE2mmg0NbUp6Yify36EANR-hbFnqTa8pAsF2nJM1k_tu_orsf=rw-e365-w900",
         "category": "phones",
         "price": 729,
         "description": "Clean Android experience with excellent camera.",
@@ -47,7 +47,7 @@
     {
         "product_id": 4,
         "product_title": "OnePlus 11",
-        "product_image": "/assets/oneplus11.jpg",
+        "product_image": "https://image01.oneplus.net/media/202409/24/07643db2d15e1fb0284f9b0885cb2d76.png?x-amz-process=image/format,webp/quality,Q_80",
         "category": "phones",
         "price": 699,
         "description": "High performance and super fast charging.",
@@ -62,7 +62,7 @@
     {
         "product_id": 5,
         "product_title": "Xiaomi 13 Pro",
-        "product_image": "/assets/xiaomi13pro.jpg",
+        "product_image": "https://i02.appmifile.com/706_operator_sg/15/02/2023/75d5a88d3d99386db8b37751a331c87f.png?f=webp",
         "category": "phones",
         "price": 799,
         "description": "Flagship camera and fast processor.",
@@ -77,7 +77,7 @@
     {
         "product_id": 6,
         "product_title": "Motorola Edge 40",
-        "product_image": "/assets/motoedge40.jpg",
+        "product_image": "https://motorolaroe.vtexassets.com/arquivos/ids/156603-1200-auto?width=1200&height=auto&aspect=true",
         "category": "phones",
         "price": 599,
         "description": "Curved display with strong performance.",
@@ -92,7 +92,7 @@
     {
         "product_id": 7,
         "product_title": "MacBook Pro M2",
-        "product_image": "/assets/macbookprom2.jpg",
+        "product_image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp14-spaceblack-select-202410?wid=904&hei=840&fmt=jpeg&qlt=90&.v=YnlWZDdpMFo0bUpJZnBpZjhKM2M3VGhTSEZFNjlmT2xUUDNBTjljV1BxWVk4UDMvOWNCVUEyZk1VN2FtQlpZWXZvdUZlR0V0VUdJSjBWaDVNVG95Yk15Y0c3T3Y4UWZwZExHUFdTUC9lN28",
         "category": "computers",
         "price": 1299,
         "description": "Ultra-fast performance with Apple silicon.",
@@ -107,7 +107,7 @@
     {
         "product_id": 8,
         "product_title": "Dell XPS 13",
-        "product_image": "/assets/dellxps13.jpg",
+        "product_image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/9345/media-gallery/touch/gray/notebook-xps-13-9345-t-gray-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=678&qlt=100,1&resMode=sharp2&size=678,402&chrss=full",
         "category": "computers",
         "price": 1150,
         "description": "Compact, powerful, and premium laptop.",
@@ -122,7 +122,7 @@
     {
         "product_id": 9,
         "product_title": "Anker PowerCore 20000",
-        "product_image": "/assets/anker20000.jpg",
+        "product_image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/Black-01_1_2048x.png?v=1747652866",
         "category": "power banks",
         "price": 55,
         "description": "High capacity and compact power bank.",
@@ -137,7 +137,7 @@
     {
         "product_id": 10,
         "product_title": "Mi Power Bank 3",
-        "product_image": "/assets/mipowerbank3.jpg",
+        "product_image": "https://www.techlandbd.com/image/cache/catalog/Xiaomi/xiaomi-10000mah-225w-power-bank-1100x1100.jpg",
         "category": "power banks",
         "price": 60,
         "description": "Fast charging with 18W support.",
