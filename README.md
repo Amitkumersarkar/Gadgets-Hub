@@ -1,12 +1,30 @@
-# React + Vite
+# 🛍️ GadgetHub - React E-Commerce Gadget Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**GadgetHub** is a modern e-commerce platform built with React.js and Tailwind CSS. It allows users to browse, filter, and explore the latest tech gadgets with smooth UI, responsive design, and essential shopping features like product details, cart management, and user authentication.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 💻 Browse products with responsive grid layout
+- 🔍 Filter products by category in a sidebar
+- 📄 Product details page with full description
+- 🛒 Add to cart and view items in navbar cart
+- 📊 Statistics page with data visualization (e.g., charts)
+- 🔐 Login page with input validation
+- 📂 Modular and clean component structure
+- 🛠️ Vite for fast development and build
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧱 Tech Stack
+
+- ⚛️ React.js
+- 💨 Tailwind CSS + DaisyUI
+- 📦 React Router DOM
+- 📊 Recharts (for statistics page)
+- ⚡ Vite
+
+---
+
+
